@@ -1,0 +1,27 @@
+# Packages
+package-lock.json
+
+# Dependencies
+/node_modules
+
+# Build
+/dist
+
+# DB Data
+data/*
+
+# Readme
+README.md
+
+# TS Buildinfo file
+tsconfig.tsbuildinfo
+
+# Logs
+npm-debug.log
+logs/
+
+# Test Coverage
+coverage/
+
+# Test Report
+report/
